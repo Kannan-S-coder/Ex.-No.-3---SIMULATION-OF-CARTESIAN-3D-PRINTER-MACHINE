@@ -59,6 +59,13 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
 
 ## Output:
+![Screenshot 2023-11-21 153440](https://github.com/Kannan-S-coder/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/147120710/378f67f0-95f0-4f06-8175-4f42f1667478)
+![Screenshot 2023-11-21 153624](https://github.com/Kannan-S-coder/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/147120710/1902a2a6-2a63-4cf4-ad09-9e0fbbac0def)
+![Screenshot 2023-11-21 153805](https://github.com/Kannan-S-coder/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/147120710/ed432ca8-31d7-4771-9bab-1708c5104be9)
+![Screenshot 2023-11-21 153822](https://github.com/Kannan-S-coder/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/147120710/2b2a7c5e-8a2a-4a67-b9a5-d34e4a785632)
+![Screenshot 2023-11-21 153850](https://github.com/Kannan-S-coder/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/147120710/11b49714-80fb-4636-a63b-04993adc8e08)
+![Screenshot 2023-11-21 153908](https://github.com/Kannan-S-coder/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/147120710/f007979d-3ee0-44e8-b201-4900eb0abf02)
+
 
 ### Name: 
 ### Register Number:
